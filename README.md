@@ -1,4 +1,5 @@
-- 👋 # H1 Hi, I’m Stas
+ # 👋 Hi, I’m Stas
+
 
 - I'm a Software and Hardware Engineer, Entrepreneur, Leader, Passionate about building products, coding, technology, startups & getting things done!
 Skilled and highly motivated Software Development professional with 15+ years of experience and proven ability to lead software teams with management techniques and methodologies in dynamic environments.
